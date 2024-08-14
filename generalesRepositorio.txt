@@ -31,3 +31,5 @@ Comandos para limpiar el cache de git cuando .gitignore no funciona
     git rm -r --cached .
     git add .
     git commit -m "Limpieza de Cache"
+
+    https://es.stackoverflow.com/questions/70483/gitignore-no-funciona-ignorando-una-subcarpeta-de-una-carpeta-ignorada
